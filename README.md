@@ -2,4 +2,6 @@
 EalgerCraft has returned! (not made by me)
 
 # How to Install
-Click on Offline_Version
+1. Click on Offline_Download_Version.html
+2. Click on "Download"
+3. Right-Click on the page and then click on "Save As"
